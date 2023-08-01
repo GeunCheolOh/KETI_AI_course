@@ -1,4 +1,4 @@
 # KETI_AI_course
-KETI 나노소재 AI 전문가 과정(2023.07.10-07.13)
+KETI 나노소재 AI 전문가 과정(2023.08.01-08.09)
 
-[링크](https://observant-fang-c48.notion.site/KETI-AI-af846ddf17f145f6821cb9523bc35343?pvs=4)에서 강의자료를 확인하실 수 있습니다.
+[링크](https://observant-fang-c48.notion.site/2023-08-KETI-AI-e0ddac76146243b18a201b949e4d4120?pvs=4)에서 강의자료를 확인하실 수 있습니다.
